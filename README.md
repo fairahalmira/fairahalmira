@@ -107,8 +107,6 @@ CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=t
 ## 🤝 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fairahalmira27@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a.etheraa)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@frh.almra)
 
 ------------------------------------------------------------------------
 
