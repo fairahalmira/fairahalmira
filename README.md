@@ -1,21 +1,125 @@
-# 💫 About Me:
-Hallo, Saya Fairah Almira! 👋<br>Saya adalah seorang Mahasiswa yang bersemangat dalam Machine Learnig. <br>Saya senang mengeksplorasi teknologi baru, membangun proyek, dan berbagi pengetahuan dengan komunitas. <br>Dalam perjalanan saya, saya terus belajar dan berkembang, baik dalam keterampilan teknis maupun dalam pemecahan masalah kreatif.
+# Hi, I'm Fairah Almira! 👋
 
+### Full-Stack Developer \| AI Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.etheraa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@frh.almra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fairahalmira27@gmail.com) 
+Junior Software Engineer with experience in full-stack web development
+and Artificial Intelligence. Comfortable working with backend and
+frontend technologies, databases, web application development, and
+machine learning-based recommendation systems.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fairahalmira&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fairahalmira&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fairahalmira&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm interested in opportunities in software engineering, full-stack
+development, web development, and AI/ML development.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fairahalmira&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+------------------------------------------------------------------------
 
----
-[![](https://visitcount.itsvg.in/api?id=fairahalmira&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💼 Experience
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Software Engineer --- Agarris Indonesia
+
+*June 2026 -- July 2026*
+
+-   Develop and maintain full-stack applications using Laravel, React,
+    Node.js, and related development tools.
+-   Develop application features, integrate frontend and backend
+    services, and manage databases using MySQL.
+-   Contribute to software development and deployment workflows using
+    Git and Docker.
+
+### AI Development --- Infinite Learning
+
+*March 2025 -- July 2025*
+
+-   Completed an internship focused on Artificial Intelligence and
+    Machine Learning through the development of an AI-powered
+    educational tourism recommendation system.
+-   Developed and integrated a hybrid recommendation model using Python,
+    combining Neural Collaborative Filtering (NCF) and Content-Based
+    Filtering.
+-   Evaluated the recommendation model's performance.
+
+------------------------------------------------------------------------
+
+## 🎓 Education
+
+**Bachelor of Computer Science \| Informatics Engineering**\
+Institut Teknologi Padang · 2022--2026
+
+**Science Major**\
+SMA Pembangunan Laboratorium UNP · 2019--2022
+
+------------------------------------------------------------------------
+
+## 💻 Technical Skills
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+**Backend & Frontend Development**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind
+CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Areas of Interest**
+
+-   Artificial Intelligence
+-   Machine Learning
+-   Data Science
+-   Hybrid Recommendation Systems
+-   Full-Stack Web Development
+
+------------------------------------------------------------------------
+
+## 📜 Certificates
+
+-   AI Developer --- Infinite Learning · 2025
+-   Best Project AI Developer --- Infinite Learning · 2025
+-   Software Engineer --- Agarris Indonesia · 2026
+
+------------------------------------------------------------------------
+
+## 🌐 Languages
+
+-   Indonesian --- Native
+-   English --- Intermediate
+
+------------------------------------------------------------------------
+
+## 🤝 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fairahalmira27@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a.etheraa)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@frh.almra)
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=fairahalmira&theme=omni&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=fairahalmira&theme=omni&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fairahalmira&theme=omni&hide_border=true&layout=compact)
+
+------------------------------------------------------------------------
+
+*Always learning, building, and growing through technology.* 🚀
